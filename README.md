@@ -1,5 +1,5 @@
 <a id="readme-top"></a>
-# About The Projects
+# About The Project
 Scraped and analyzed real-time stock data from the DSE website. Calculated top gainers/losers, mapped trading codes to specific industry sectors, and visualized "Open vs. Close" price comparisons
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
